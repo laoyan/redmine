@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'http://ruby.taobao.org/'
 
 gem 'rails', '3.2.3'
 gem 'prototype-rails', '3.2.1'
